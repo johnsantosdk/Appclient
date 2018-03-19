@@ -1,0 +1,16 @@
+.modal-info-css {
+	background-color: rgba(107,157,187,0.5);
+}
+.modal-create-css {
+	background-color: rgba(32,137,94,0.5);
+}
+.modal-edit-css {
+	background-color: rgba(182,163,56,0.5);
+}
+.modal-delete-css {
+	background-color: rgba(191,83,40,0.5);
+}
+.modal-title {
+	font-size: 16pt;
+	color: rgba(0,0,0,0.6);
+}
