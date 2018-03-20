@@ -1,0 +1,1 @@
+This is project only for training in Laravel, PHP, JavaScript, Ajax library, etc.
